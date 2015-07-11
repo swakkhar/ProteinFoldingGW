@@ -12,9 +12,8 @@
 ### Details of the parameters
  
 [Benchmark index] is 0 to 16 to select from following benchmarks and default benchmark index is 16:
-0 --- 4RXN
-
-1 --- 1ENH
+:0 --- 4RXN
+:1 --- 1ENH
 
 2 --- 4PTI
 
