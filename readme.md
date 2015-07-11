@@ -9,8 +9,9 @@
 1. Go to the parent directory
 2. Use: java ga.Main [Benchmark_index] [No_of_runs] [File_start_index] [Population_size]
 
-### details of the parameters
-Benchmark_index is 0 to 16 to select from following benchmarks and default benchmark index is 16:
+### Details of the parameters
+ 
+[Benchmark index] is 0 to 16 to select from following benchmarks and default benchmark index is 16:
 0 --- 4RXN
 1 --- 1ENH
 2 --- 4PTI
@@ -29,8 +30,8 @@ Benchmark_index is 0 to 16 to select from following benchmarks and default bench
 15 ---- 3NO3
 16 ---- 3ON7
 
-Default No_of_runs is 55.
+Default [No_of_runs] is 55.
 
-Default File_start_index is 1.
+Default [File_start_index] is 1.
 
-Defalut Population size is 50.
+Defalut [Population size] is 50.
