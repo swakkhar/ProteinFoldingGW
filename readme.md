@@ -5,7 +5,7 @@
 2. Change your directory to  need "ga" 
 3. Use the command: javac *.java
 
-## To Run:
+## To run:
 1. Go to the parent directory
 2. Use: java ga.Main [Benchmark_index] [No_of_runs] [File_start_index] [Population_size]
 
