@@ -1,13 +1,13 @@
 #Efficient Conformational Space Exploration in Ab Initio Protein Folding Simulation
 
 ##To compile:
-1 The system must have Java
-2 Change your directory to  need "ga" 
-3 Use the command: javac *.java
+1. The system must have Java
+2. Change your directory to  need "ga" 
+3. Use the command: javac *.java
 
 ## To Run:
-1 Go to the parent directory
-2 Use: java ga.Main [Benchmark_index] [No_of_runs] [File_start_index] [Population_size]
+1. Go to the parent directory
+2. Use: java ga.Main [Benchmark_index] [No_of_runs] [File_start_index] [Population_size]
 
 ### details of the parameters
 Benchmark_index is 0 to 16 to select from following benchmarks and default benchmark index is 16:
