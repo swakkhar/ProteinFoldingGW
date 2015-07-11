@@ -29,7 +29,7 @@
 13 - 3MR7
 14 - 3NO6
 15 - 3NO3
-16 ---- 3ON7|
+16 - 3ON7
 
 Default [No_of_runs] is 55.
 
