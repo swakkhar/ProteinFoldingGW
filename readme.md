@@ -1,4 +1,5 @@
 #Efficient Conformational Space Exploration in Ab Initio Protein Folding Simulation
+Ahammed Ullah, Nasif Ahmed, Subrata Dey Pappu, Swakkhar Shatabda, M. Sohel Rahman, A.Z.M. Dayem Ullah
 
 ##To compile:
 1. The system must have Java
