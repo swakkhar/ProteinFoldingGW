@@ -1,5 +1,5 @@
 To compile we need to go at "ga" directory and then the command is: javac *.java
-To run we need to go at "vPW" directory and then the command is:
+To run we need to go the parent directory and then the command is:
 java ga.Main [Benchmark_index] [No_of_runs] [File_start_index] [Population_size]
 
 Benchmark_index is 0 to 16 to select from following benchmarks and default benchmark index is 16:
